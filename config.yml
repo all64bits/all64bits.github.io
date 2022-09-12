@@ -1,5 +1,6 @@
 ---
 params:
+  baseURL: https://all64bits.codeberg.page/public/
   homeInfoParams:
     Title: Welcome. I'm Mike
     Content: |
