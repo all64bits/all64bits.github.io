@@ -37,7 +37,7 @@ menu:
       weight: 20
     - identifier: homepage
       name: home
-      url: /index.html/
+      url: https://all64bits.github.io
       weight: 30
 
 outputs:
