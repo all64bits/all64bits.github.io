@@ -1,6 +1,6 @@
 ---
 params:
-  baseURL: https://all64bits.github.io
+  baseURL: https://www.all64bits.com
   homeInfoParams:
     Title: Welcome. I'm Mike
     Content: |
@@ -37,7 +37,7 @@ menu:
       weight: 20
     - identifier: homepage
       name: home
-      url: https://all64bits.github.io
+      url: https://www.all64bits.com
       weight: 30
 
 outputs:
