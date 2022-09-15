@@ -1,6 +1,6 @@
 ---
 params:
-  baseURL: https://www.all64bits.com
+  baseURL: https://all64bits.github.io
   homeInfoParams:
     Title: Welcome. I'm Mike
     Content: |
